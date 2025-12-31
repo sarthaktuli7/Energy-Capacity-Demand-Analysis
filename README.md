@@ -40,8 +40,18 @@ Utility providers must balance the high cost of infrastructure expansion with th
 * **Capacity Buffer:** While the 2015 surge does not breach the 10.6M MW limit, it significantly reduces the safety buffer, suggesting an immediate need for infrastructure planning before 2016.
 
 ## 📂 Repository Structure
-```text
-├── data/                  # Raw dataset used for analysis
-├── images/                # Screenshots of the dashboard
-├── energy_analysis.pbix   # The Power BI source file
-└── README.md              # Project documentation
+
+/energy-capacity-analysis
+│
+├── README.md               
+├── energy_analysis.pbix    
+├── requirements.txt        <-- Dependencies (pandas, numpy, etc.)
+│
+├── data/                   
+│   └── power_demand_data.csv
+│
+├── scripts/                <-- NEW FOLDER
+│   └── data_preprocessing.py
+│
+└── images/                 
+    └── dashboard_screenshot.png
