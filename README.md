@@ -5,7 +5,7 @@
 ![Domain](https://img.shields.io/badge/Domain-Energy%20%26%20Utilities-blue)
 
 ## 📖 Executive Summary
-This project analyzes a 10-year trend (2004–2015) of power demand versus maximum grid capacity. The primary objective was to stress-test current infrastructure against a hypothetical "GenAI Demand Scenario"—a surge in power consumption driven by new data center requirements.
+This project analyzes a 10-year trend (2004–2015) of power demand versus maximum grid capacity. The primary objective was to stress-test current infrastructure against a hypothetical "GenAI Demand Scenario", a surge in power consumption driven by new data center requirements.
 
 **Key Finding:** The analysis reveals that while historical demand remained stable under 7M MW, the projected "GenAI Scenario" creates a critical spike in 2015, potentially exceeding safe operating margins relative to the Max Capacity limit (~10.6M MW).
 
